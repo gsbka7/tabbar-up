@@ -1,0 +1,2 @@
+webpackJsonp([0],{"8U0K":function(e,t){},YZJo:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("h2",[this._v("分類")])},staticRenderFns:[]};var s=n("VU/8")({name:"Category"},r,!1,function(e){n("8U0K")},null,null);t.default=s.exports}});
+//# sourceMappingURL=0.b29db7aad777390ce547.js.map

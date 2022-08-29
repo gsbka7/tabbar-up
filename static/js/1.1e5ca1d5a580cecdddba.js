@@ -1,0 +1,2 @@
+webpackJsonp([1],{"4wZ2":function(e,n){},XwkR:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("h2",[this._v("首頁")])},staticRenderFns:[]};var s=t("VU/8")({name:"Home"},r,!1,function(e){t("4wZ2")},null,null);n.default=s.exports}});
+//# sourceMappingURL=1.1e5ca1d5a580cecdddba.js.map

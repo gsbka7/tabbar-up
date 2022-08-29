@@ -1,0 +1,2 @@
+webpackJsonp([3],{FgsM:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("h2",[this._v("購物車")])},staticRenderFns:[]};var s=n("VU/8")({name:"Shoppingcart"},r,!1,function(e){n("M+Lt")},null,null);t.default=s.exports},"M+Lt":function(e,t){}});
+//# sourceMappingURL=3.cc49bf3215385552d4e1.js.map
